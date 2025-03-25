@@ -66,7 +66,20 @@ Performance Metrics:
 
 ✅ Confusion Matrix
 A confusion matrix is generated to evaluate model performance:
-
-✅ Word Importance Plot
-Visualization of the most important words in spam classification:
+![image](https://github.com/user-attachments/assets/0360d2ad-50c8-406c-9ddf-8c708d2ea46d)
+✅ Classification Report
+A classification report showing precision, recall, F1 Score, Heatmap:
+![image](https://github.com/user-attachments/assets/ea96b680-132a-4e16-bef7-a3d0d19c2e80)
+✅ ROC Curve
+Receiver Operating Characteristic (ROC) curve to analyze model performance:
+![image](https://github.com/user-attachments/assets/a9edb33c-9bc4-4f2e-b089-2953dc247136)
+✅ Precision-Recall Curve
+Precision-Recall curve to evaluate performance on imbalanced data:
+![image](https://github.com/user-attachments/assets/e0516927-0abe-423e-bb4f-30d2e94c7241)
+✅ Distribution of Spam Prediction Probabilities
+Histogram showing the probability distribution of messages classified as spam:
+![image](https://github.com/user-attachments/assets/46d0245f-a8b3-4419-a05a-879c8d40ea8f)
+✅ Top 10 Words Indicating Spam
+Bar chart of the top 10 words most associated with spam messages:
+![image](https://github.com/user-attachments/assets/d49a2af7-c037-4a51-904b-f678407c0550)
 
