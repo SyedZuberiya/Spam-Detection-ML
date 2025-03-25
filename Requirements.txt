@@ -1,0 +1,27 @@
+🔹 REQUIREMENTS: 
+numpy  
+pandas  
+scikit-learn  
+matplotlib  
+seaborn  
+nltk  
+wordcloud  
+jupyter 
+
+🔹 Explanation of Each Package:
+numpy → For numerical computations
+
+pandas → For handling datasets (CSV files)
+
+scikit-learn → For machine learning models (Multinomial Naïve Bayes, performance metrics)
+
+matplotlib → For plots (confusion matrix, word importance)
+
+seaborn → For enhanced data visualization
+
+nltk → For text preprocessing (stopwords removal, tokenization)
+
+wordcloud → For visualizing top spam words
+
+jupyter → If you're running the project in a Jupyter Notebook
+
